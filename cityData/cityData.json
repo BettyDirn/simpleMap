@@ -1,0 +1,208 @@
+[{
+    "id": "1556de5e-9e4d-4ebc-a5aa-341a8f05fb37",
+    "areaName": "全国",
+    "parentNode": "root",
+    "level": "1",
+    "zoom": "4",
+    "lat": "32.61",
+    "lon": "108.74",
+    "code": "111111"
+}, {
+    "id": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "areaName": "广东",
+    "parentNode": "1556de5e-9e4d-4ebc-a5aa-341a8f05fb37",
+    "level": "2",
+    "zoom": "7",
+    "lat": "23.04",
+    "lon": "113.32",
+    "code": "440000"
+}, {
+    "id": "g7e9c04e-a5qf-4dd7-81dc-18da0c8315z2",
+    "areaName": "广州",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.04",
+    "lon": "113.32",
+    "code": "440100"
+}, {
+    "id": "sze9c04e-s5qf-4dd7-81dc-18da0c831975",
+    "areaName": "深圳",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "22.547",
+    "lon": "114.085947",
+    "code": "440300"
+}, {
+    "id": "fse9c04e-s5qf-4dd7-81dc-18da0c831461",
+    "areaName": "佛山",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.028762",
+    "lon": "113.122717",
+    "code": "440600"
+}, {
+    "id": "zqe9c04e-s5qf-4dd7-81dc-18da0c812368",
+    "areaName": "肇庆",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.051546",
+    "lon": "112.472529",
+    "code": "441200"
+}, {
+    "id": "ste9c04e-s5qf-4dd7-81dc-18da0c839876",
+    "areaName": "汕头",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.37102",
+    "lon": "116.708463",
+    "code": "440500"
+}, {
+    "id": "cze9c04e-s5qf-4dd7-81dc-18da0c835489",
+    "areaName": "潮州",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.661701",
+    "lon": "116.632301",
+    "code": "445100"
+}, {
+    "id": "jye9c04e-s5qf-4dd7-81dc-18da0c838652",
+    "areaName": "揭阳",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.543778",
+    "lon": "116.355733",
+    "code": "445200"
+}, {
+    "id": "swe9c04e-s5qf-4dd7-81dc-18da0c838653",
+    "areaName": "汕尾",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "22.774485",
+    "lon": "115.364238",
+    "code": "441500"
+}, {
+    "id": "zje9c04e-s5qf-4dd7-81dc-18da0c123489",
+    "areaName": "湛江",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "21.274898",
+    "lon": "110.364977",
+    "code": "440800"
+}, {
+    "id": "mme9c04e-s5qf-4dd7-81dc-18da0c865741",
+    "areaName": "茂名",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "21.659751",
+    "lon": "110.919229",
+    "code": "440900"
+}, {
+    "id": "yje9c04e-s5qf-4dd7-81dc-18da0c658956",
+    "areaName": "阳江",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "21.859222",
+    "lon": "111.975107",
+    "code": "441700"
+}, {
+    "id": "yfe9c04e-s5qf-4dd7-81dc-18da0c641211",
+    "areaName": "云浮",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "22.929801",
+    "lon": "112.044439",
+    "code": "445300"
+}, {
+    "id": "sge9c04e-s5qf-4dd7-81dc-18da0c887691",
+    "areaName": "韶关",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "24.801322",
+    "lon": "113.591544",
+    "code": "440200"
+}, {
+    "id": "mze9c04e-s5qf-4dd7-81dc-18da0c454412",
+    "areaName": "梅州",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "24.299112",
+    "lon": "116.117582",
+    "code": "441400"
+}, {
+    "id": "hye9c04e-s5qf-4dd7-81dc-18da0c778546",
+    "areaName": "河源",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.746266",
+    "lon": "114.697802",
+    "code": "441600"
+}, {
+    "id": "qye9c04e-s5qf-4dd7-81dc-18da0c335482",
+    "areaName": "清远",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.685022",
+    "lon": "113.051227",
+    "code": "441800"
+}, {
+    "id": "hze9c04e-s5qf-4dd7-81dc-18da0b158245",
+    "areaName": "惠州",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.079404",
+    "lon": "114.412599",
+    "code": "441300"
+}, {
+    "id": "dge9c04e-s5qf-4dd7-81dc-18da0a784741",
+    "areaName": "东莞",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "23.046237",
+    "lon": "113.746262",
+    "code": "441900"
+}, {
+    "id": "zhe9c04e-s5qf-4dd7-81dc-18da0c756412",
+    "areaName": "珠海",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "22.224979",
+    "lon": "113.553986",
+    "code": "440400"
+}, {
+    "id": "jme9c04e-s5qf-4dd7-81dc-18da0c012302",
+    "areaName": "江门",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "22.590431",
+    "lon": "113.094942",
+    "code": "440700"
+}, {
+    "id": "zse9c04e-s5qf-4dd7-81dc-18da0c354276",
+    "areaName": "中山",
+    "parentNode": "b7e9c21e-a5qf-4dd7-80dc-18da0c8315f2",
+    "level": "3",
+    "zoom": "9",
+    "lat": "22.521113",
+    "lon": "113.382391",
+    "code": "442000"
+}]

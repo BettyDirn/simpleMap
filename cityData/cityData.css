@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+.cityPanel .citymodel{
+	display:inline-block;
+	position:absolute;
+	border:#ccc 1px solid;
+	right:150px;
+	top:8px;
+	border-radius:5px;
+	background:#fff;
+	cursor:pointer;
+}
+.cityPanel .selName{
+	margin:5px 10px;
+}
+.cityPanel .faName{
+	margin-right:10px;
+}
+.cityPanel .showPanel{
+	position:absolute;
+	background:#f7f7f7;
+	border:1px solid #ccc;
+	right:150px;
+	top:50px;
+	width:310px;
+	font-size:12px;
+}
+.cityPanel .city-btn-area{
+	padding:5px;
+	border-bottom:1px solid #ccc;
+}
+.cityPanel .city-list{
+
+}
+.cityPanel .cityclose{
+	float:right;
+    margin:5px;
+}
+.cityPanel .country{
+		font-weight:bold;
+}
+.cityPanel  .citys{
+		margin:15px;
+		cursor:pointer;
+}
+.cityPanel  .citys:hover{
+	color:#0088cc;
+}
